@@ -32,7 +32,7 @@ The Stories Application is a dynamic full-stack web app designed to transform th
 ### Installation
 
 1. Clone the repository: `git clone [GitHub Repository Link]`
-2. Navigate to the project directory: `cd stories-application`
+2. Navigate to the project directory: `cd Stories`
 3. Install dependencies:
    ```bash
    npm install
